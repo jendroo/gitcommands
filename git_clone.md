@@ -1,14 +1,14 @@
-# clone 
-### Description
-It is used to download the entire repository, including its files, commit history, branches, and other metadata, onto your local machine.
+ # `git clone`
+### _Description_
 
-## Example
-- git clone https://github.com/Ginu5952/gitcommands.git
+`git clone` is used to download the entire repository, including its files, commit history, branches, and other metadata, onto your local machine.
 
-### Options
-- git clone git@github.com:Ginu5952/gitcommands.git
+### _Example_
+- >git clone https://github.com/Ginu5952/gitcommands.git
 
-It will clone SSH
+### _Options_
+  - >git clone git@github.com:Ginu5952/gitcommands.git
 
-## References
-- https://git-scm.com/docs/git-clone
+
+### _References_
+- >https://git-scm.com/docs/git-clone
